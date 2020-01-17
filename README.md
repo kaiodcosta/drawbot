@@ -8,6 +8,10 @@ O Quickdraw Infinito é um Aplicativo da web de desenho automático e infinito b
 
 ## Funcionamento
 
+O Quickdraw Infinito funciona apartir da tecnologia de inteligência artificial e dos dados do Google. Apartir disto, o aplicativo produz desenhos baseados nestes dados, fazendo assim, que eles sejam infinitos.
+São 50 Milhões de desenhos em 345 categorias, sendo de todas as partes do mundo.
+
+
 O Aplicativo ira rabiscar e criar desenhos infinitamente.
 Quando você quiser salvar o desenho criado por ele, clique em **exportar svg** e faça o download da imagem.
 Você também pode alterar pelo o estilo de desenho, sendo ele **Direcional** ou **Mutacional**.
