@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ce2fc357-0b57-49db-91f8-86207a6bc17c/deploy-status)](https://app.netlify.com/sites/quickdraw-infinito/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce2fc357-0b57-49db-91f8-86207a6bc17c/deploy-status)](https://app.netlify.com/sites/botdraw/deploys)
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/kaiodcosta/quickdraw-infinito?style=social">
 
 # Drawbot
