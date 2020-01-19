@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kaioduarte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://quickdraw-infinito.netlify.com
+  * I am kaioduarte (https://keybase.io/kaioduarte) on keybase.
+  * I have a public key ASBydrgjRuFQlbd24Jp47M6qHL1_Pm7NcSfPnlsPccryGAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012078578c25f6382c2c61e4a4dfdb89b7d65a5c39226b587b5d7b2881facb896b670a",
+      "host": "keybase.io",
+      "kid": "01207276b82346e15095b776e09a78ecceaa1cbd7f3e6ecd7127cf9e5b0f71caf2180a",
+      "uid": "5eaad5d95da538bef02d9e0f4d025319",
+      "username": "kaioduarte"
+    },
+    "merkle_root": {
+      "ctime": 1579447282,
+      "hash": "b1ba085a8f9a3af3319cc1fadd51ca90fe4edc95fe552bdd2c6bd38a18795ced2e3e17ab5eb670f0730b50f2ef57d7d7fa333b47a67285f9fa3ac49ad7788cd0",
+      "hash_meta": "939335133cee6fa07f844e4e69bbcb95e02ae0b51ba1e9c627d3f9226779af41",
+      "seqno": 14284904
+    },
+    "service": {
+      "entropy": "nZHQEqHQG9si7L/6oPuUUG5K",
+      "hostname": "quickdraw-infinito.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1579447283,
+  "expire_in": 504576000,
+  "prev": "fa293df20af80913ad66d2978fb95416ea1c49dd0cb3066297c706ae5e8a35a4",
+  "seqno": 50,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcna4I0bhUJW3duCaeOzOqhy9fz5uzXEnz55bD3HK8hgKp3BheWxvYWTESpcCMsQg+ik98gr4CROtZtKXj7lUFuocSd0MswZil8cGrl6KNaTEIEuj1qM3L6GEAJ23idDVyHh+fYNHMSG9Ig+QHSfiwSCTAgHCo3NpZ8RA9kI/KfJd/kVl1gDCoSURN92FhqBivukfmZrR2TqGw/au9uktZIh8RvHb5mDoeVQEN4EA0Q2XIxnFvVaCbrc/D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM4AKxHayZTpz4nWxk6bMdIEQ/Bc0gitkX74cYh4bO7Co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaioduarte
+
+==================================================================
