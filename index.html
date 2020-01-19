@@ -54,7 +54,7 @@ function main() {
   onResize();
 
   document.getElementById("svg-export").addEventListener("click", ()=>{
-   let fileName = "drawing.svg";
+   let fileName = "desenho.svg";
    let url = "data:image/svg+xml;utf8," + encodeURIComponent(paper.project.exportSVG({asString:true}));
 
    let link = document.createElement("a");
